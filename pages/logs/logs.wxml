@@ -1,0 +1,6 @@
+<view class="banner">
+  <view class="fun">详情</view>
+  <image class="banner1" src="/pages/img/0.1.png"></image>
+  <view>神奇女校</view>
+  <view>条数:80</view>
+</view>

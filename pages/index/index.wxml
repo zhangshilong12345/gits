@@ -1,0 +1,63 @@
+<view class="banner">
+  <view class="banner1">
+    <view class="banner2">搜索</view>
+  </view>
+</view>
+
+<View class="title">
+    <view class="title1">影院热映</view>
+    <view class="title2">查看更多> </view>
+</View>
+<!-- <navigator url=""></navigator> -->
+<view class="dels">
+    <view class="dels1">
+      <image bindtap='ontTap' class="dels2" src="/pages/img/0.1.png"></image>
+      <view class="dels3">神奇女校19...</view>
+      <view class="dels4">★★★☆☆6.6</view>
+    </view>
+    <view class="dels1">
+      <image class="dels2" src="/pages/img/0.2.png"></image>
+      <view class="dels3">光语者...</view>
+      <view class="dels4">★★★☆☆2.6</view>
+    </view>
+    <view class="dels1">
+      <image class="dels2" src="/pages/img/0.3.png"></image>
+      <view class="dels3">紧急救援20...</view>
+      <view class="dels4">★★★☆☆9.6</view>
+    </view>
+    <view class="dels1">
+      <image class="dels2" src="/pages/img/0.4.png"></image>
+      <view class="dels3">帮！少年...</view>
+      <view class="dels4">★★★★☆8.6</view>
+    </view>
+</view>
+
+<View class="title">
+    <view class="title1">影院热映</view>
+    <view class="title2">查看更多> </view>
+</View>
+
+<view class="dels">
+    <view class="dels1">
+      <image class="dels2" src="/pages/img/0.1.png"></image>
+      <view class="dels3">神奇女校19...</view>
+      <view class="dels4">★★★☆☆6.6</view>
+    </view>
+    <view class="dels1">
+      <image class="dels2" src="/pages/img/0.2.png"></image>
+      <view class="dels3">光语者...</view>
+      <view class="dels4">★★★☆☆2.6</view>
+    </view>
+    <view class="dels1">
+      <image class="dels2" src="/pages/img/0.3.png"></image>
+      <view class="dels3">紧急救援20...</view>
+      <view class="dels4">★★★☆☆9.6</view>
+    </view>
+    <view class="dels1">
+      <image class="dels2" src="/pages/img/0.4.png"></image>
+      <view class="dels3">帮！少年...</view>
+      <view class="dels4">★★★★☆8.6</view>
+    </view>
+</view>
+
+<button class="siss" open-type='share'>转发</button>

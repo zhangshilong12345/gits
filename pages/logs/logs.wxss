@@ -1,0 +1,7 @@
+.fun{
+  font-size: 20px;
+}
+.banner1{
+  width: 200rpx;
+  height: 200rpx;
+}
